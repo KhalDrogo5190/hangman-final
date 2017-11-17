@@ -1,0 +1,164 @@
+Python 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:14:34) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: C:\Users\ablom5190\CP1\hangman.should.worky.py ==========
+Welcome to Penguin Games Studios you probably know how this works
+
+Wanna see something cool?yes
+
+Alright!
+
+
+__________¶¶_¶¶__¶¶_¶¶_
+_________¶¶_¶¶_¶¶_¶¶_¶¶¶ 
+_____¶¶¶¶¶____________¶¶¶¶¶¶¶ 
+___¶¶¶¶¶_______________¶¶¶¶¶¶¶ 
+__¶¶¶¶¶__________________¶¶¶¶¶ 
+__¶¶¶¶____________________¶¶¶
+___¶¶______________________¶¶¶ 
+___¶________________________¶¶¶¶ 
+__¶¶_____¶¶¶______¶¶________¶¶¶¶¶¶¶ 
+__¶_____¶¶¶¶_____¶¶¶¶¶______¶¶¶¶¶¶_¶ 
+__¶____¶¶¶¶¶____¶¶¶¶¶¶¶¶____¶¶¶¶¶¶__¶ 
+__¶¶__¶¶¶¶¶______¶¶¶¶¶¶¶___¶¶¶¶¶¶¶___¶ 
+___¶__¶¶¶__________¶¶¶¶___¶¶¶¶¶¶¶¶¶___¶ 
+___¶¶____________________¶¶¶¶¶¶¶¶¶¶___¶¶¶ 
+___¶¶¶_____¶¶¶¶¶¶_______¶¶¶¶¶¶¶¶¶¶¶___¶¶¶¶
+___¶¶¶¶¶___¶¶¶¶¶¶_____¶¶¶¶¶¶¶¶¶¶¶¶¶__¶¶¶¶¶¶
+___¶¶¶¶¶¶¶_________¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶__¶¶¶¶¶¶¶¶ 
+___¶¶¶¶¶¶¶¶__¶¶¶___¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶_¶¶¶¶¶¶¶¶¶ 
+____¶¶¶¶¶¶¶¶¶¶¶¶__¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶ 
+____¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶ ¶¶¶¶¶¶¶¶¶¶ 
+____¶¶¶¶¶¶¶¶¶_¶¶¶¶¶¶¶_¶¶¶¶¶¶¶¶¶¶¶ ¶¶¶¶¶¶¶¶ 
+__¶¶¶¶¶¶¶¶¶¶¶_________¶¶¶¶¶¶¶¶¶¶¶ ¶¶¶¶¶ 
+__¶¶¶¶¶¶¶¶¶¶_________¶¶¶¶¶¶¶¶¶¶¶
+___¶¶¶¶¶¶¶_________¶¶¶¶¶¶¶¶¶¶¶¶ 
+___________________¶¶¶¶¶¶¶¶¶¶¶ 
+___________________¶¶¶¶¶¶¶¶¶¶ 
+
+
+This is definitely not hangman its 'Shopping Spree!'
+
+You have to spell the word to buy it
+
+You have a total of 6 strikes then your out, so no this isn't baseball
+
+Please chose from the catagories: 0)Animals 1)Foods 2)Trees 7
+
+Please chose an option otherwise this is gonna be a long day
+
+Please chose from the catagories: 0)Animals 1)Foods 2)Trees 2
+
+---- []
+
+Guess a lonely letter of the alphabet:p
+
+p--- [p]
+
+Guess a lonely letter of the alphabet:7
+
+Only letters can be guessed idiot
+
+Guess a lonely letter of the alphabet:yh
+
+Only one character at a time idiot
+
+Guess a lonely letter of the alphabet:i
+
+pi-- [pi]
+
+Guess a lonely letter of the alphabet:n
+
+pin- [pin]
+
+Guess a lonely letter of the alphabet:g
+
+You have 1 strikes
+
+pin- [ping]
+
+Guess a lonely letter of the alphabet:o
+
+You have 2 strikes
+
+pin- [pingo]
+
+Guess a lonely letter of the alphabet:e
+
+pine [pingoe]
+
+You probably won
+
+Would you like to play again? (y/n) yes
+
+This is definitely not hangman its 'Shopping Spree!'
+
+You have to spell the word to buy it
+
+You have a total of 6 strikes then your out, so no this isn't baseball
+
+Please chose from the catagories: 0)Animals 1)Foods 2)Trees 0
+
+------ []
+
+Guess a lonely letter of the alphabet:g
+
+You have 1 strikes
+
+------ [g]
+
+Guess a lonely letter of the alphabet:i
+
+----i- [gi]
+
+Guess a lonely letter of the alphabet:r
+
+You have 2 strikes
+
+----i- [gir]
+
+Guess a lonely letter of the alphabet:a
+
+You have 3 strikes
+
+----i- [gira]
+
+Guess a lonely letter of the alphabet:f
+
+--ffi- [giraf]
+
+Guess a lonely letter of the alphabet:e
+
+You have 4 strikes
+
+--ffi- [girafe]
+
+Guess a lonely letter of the alphabet:l
+
+You have 5 strikes
+
+--ffi- [girafel]
+
+Guess a lonely letter of the alphabet:o
+
+You have 6 strikes
+
+Game over loser
+
+--ffi- [girafelo]
+
+You lost I think
+
+Would you like to play again? (y/n) no
+
+Thanks for playing man
+
+I'm sorry you are aweful at this game
+
+Maybe, I don't know, try playing iSPY by yourself
+
+You might actually win
+
+Anyway this game was made by Anders
+
+On the 20th of November, 2017
